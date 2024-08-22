@@ -1,3 +1,5 @@
+//visit https://www.javatpoint.com/super-keyword
+
 class employee{
   private long salary;
   public employee(long salary){
