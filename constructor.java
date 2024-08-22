@@ -1,3 +1,6 @@
+// visit https://www.javatpoint.com/java-constructor
+
+
 class rectangle{
   private int length;
   private int width;
